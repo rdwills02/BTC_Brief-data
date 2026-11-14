@@ -1,0 +1,23 @@
+{
+ "datasets": {
+  "book": {
+   "cadenceVersion": "cc24b981a-389",
+   "captureId": "20261114T003036058Z-3efacc",
+   "codec": 1,
+   "files": 4,
+   "generationId": "20261114T003036058Z-3efacc",
+   "grid": 2,
+   "hashes": {
+    "book/cadence.json": "65d96f57d1af861e8ac7a22d8408228aa40ae3ac7dfc393a784fbeacf3e5e5d0",
+    "book/coinbase/2026-11-14/2045.json.gz": "956bf3ce2a5c31a23bafaaf3ca0f248cf59415f45a5432d303140bceb99485ae",
+    "book/grids.json": "c9c34b0f0a157c52a7a52913bf10e98b4802bea46562e42567541d026cdc39f7",
+    "book/kraken/2026-11-14/2045.json.gz": "80004f71b37537ea316919196055024b3ea867d7d50eb9ff8965457cca7c611d"
+   },
+   "observedAt": "2026-11-14T20:45:00.000Z",
+   "publishedFrom": "7d67000c0560",
+   "schema": 2,
+   "version": "2026-11-14T20:45:00.000Z"
+  }
+ },
+ "schema": 1
+}
